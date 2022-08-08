@@ -3,7 +3,7 @@ class ArrayExample
 {
     static void Main()
     {
-        char[] letters = { 'f', 'r', 'e', 'd', ' ', 's', 'm', 'i', 't', 'h' };
+        char[] letters = { 'P', 'a', 'u', 'l', ' ', 's', 'm', 'i', 't', 'h' };
         string name = "";
         int[] a = new int[10];
         for (int i = 0; i < letters.Length; i++)
