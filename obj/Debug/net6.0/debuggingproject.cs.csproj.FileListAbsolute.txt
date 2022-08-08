@@ -1,0 +1,15 @@
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/bin/Debug/net6.0/debuggingproject.cs
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/bin/Debug/net6.0/debuggingproject.cs.deps.json
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/bin/Debug/net6.0/debuggingproject.cs.runtimeconfig.json
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/bin/Debug/net6.0/debuggingproject.cs.dll
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/bin/Debug/net6.0/debuggingproject.cs.pdb
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.csproj.AssemblyReference.cache
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.AssemblyInfoInputs.cache
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.AssemblyInfo.cs
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.dll
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/refint/debuggingproject.cs.dll
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.pdb
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/debuggingproject.cs.genruntimeconfig.cache
+/Users/paul/Projects/debuggingproject.cs/debuggingproject.cs/obj/Debug/net6.0/ref/debuggingproject.cs.dll
